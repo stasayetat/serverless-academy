@@ -1,1 +1,3 @@
 .idea/
+/02_cli_primitive_db/node_modules
+/02_cli_primitive_db/package-lock.json
