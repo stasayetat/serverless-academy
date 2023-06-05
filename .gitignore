@@ -1,3 +1,5 @@
 .idea/
 /02_cli_primitive_db/node_modules
+/03_cli_telegram_console_sender/node_modules
 /02_cli_primitive_db/package-lock.json
+/03_cli_telegram_console_sender/package-lock.json
